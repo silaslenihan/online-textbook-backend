@@ -16,6 +16,7 @@ app.use(bodyParser.json());
 app.post("/api/agents/silaslenihan/example-agent", async (req, res) => {
   const url = "https://app.fixie.ai/api/agents/silaslenihan/example-agent";
   const token = process.env.FIXIE_API_TOKEN;
+  console.log(token)
 
   const requestOptions = {
     method: "POST",
