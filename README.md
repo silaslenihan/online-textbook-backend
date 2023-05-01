@@ -1,8 +1,8 @@
 # README
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+A backend for the AI features of the [CS390 online textbook](https://github.com/MuriloCalegari/NewAPTWebsite)
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
+The app in this repo is deployed at https://online-textbook-backend.onrender.com.
 
 ## Deployment
 
